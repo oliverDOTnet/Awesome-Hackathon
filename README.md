@@ -119,6 +119,9 @@ https://api.chucknorris.io/
 Dumbest Things Donald Trump has said - API  
 https://www.tronalddump.io/
 
+Free Real-time and historical currency rates JSON API
+https://currencyscoop.com
+
 ---
 
 ## Articles
